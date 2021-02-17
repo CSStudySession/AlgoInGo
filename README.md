@@ -1,2 +1,2 @@
 # AlgoInGo
-algorithm in Golang
+algo study in golang
